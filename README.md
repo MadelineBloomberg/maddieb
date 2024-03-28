@@ -34,5 +34,6 @@ Fizz Buzz
 
 A sample solution is given in FizzBuzzAssignment.py.
 
+ $ python3 FizzBuzzAssignment.py
 
 
