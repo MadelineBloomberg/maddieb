@@ -32,7 +32,7 @@ Fizz Buzz
 
 # Solution
 
-A sample solution is given in...
+A sample solution is given in FizzBuzzAssignment.py.
 
 
 
