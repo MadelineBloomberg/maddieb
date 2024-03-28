@@ -1,6 +1,6 @@
 # Madeline Bloomberg
 
-**Advent of Code Challegne: Day 2 2015**
+**Advent of Code Challenge: Day 2 2015**
 
 **Part 1: I Was Told There Would Be No Math**
 
