@@ -36,6 +36,6 @@ Fizz Buzz
 
 A sample solution is given in `FizzBuzzAssignment.py`.
 
- $ python3 FizzBuzzAssignment.py
+[ $ python3 FizzBuzzAssignment.py](https://github.com/MadelineBloomberg/maddieb/blob/02ce06165ccd1176b2f818a7110c2d7501b1fee7/FizzBuzzAssignment.py#L1)
 
 
